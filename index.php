@@ -150,7 +150,7 @@ include "connect.php";
                                 </div> -->
 
                                 <div class="button-brochure hvr-bounce-to-right">
-                                    <a href="https://drive.google.com/file/d/1M6RvynsAvhpDuNi_R8mk49SO70ZJpblM/view?usp=sharing" target="_blank">Learn More</a>                                </div>
+                                    <a href="https://drive.google.com/file/d/1A7r8d-ILzoFhzX27Xr7AhKX16DsOiQ4i/view?usp=sharing" target="_blank">Learn More</a>                                </div>
                             </div>
                             
                         </div>
@@ -209,7 +209,7 @@ include "connect.php";
         <div id="events-section">
             <div class="container">
                 <div class="theme-title">
-                    <h2 style="color: white">EVENTS</h2>
+                    <h2><a href="./events.php" style="color: white">EVENTS</a></h2>
                 </div>
                 <div id="partner_logo" class="row owl-carousel owl-theme" style="text-align: center">
                     <div class="item"><img style="padding:10px 15px;" width="700" height="200" src="images\events\football.jpg" alt="logo" /></a>
@@ -403,7 +403,7 @@ include "connect.php";
                     <!-- <span class="p-color">&amp;</span>    -->
                     Burn
                 </h3>
-                <a href="https://drive.google.com/file/d/1M6RvynsAvhpDuNi_R8mk49SO70ZJpblM/view?usp=sharing" class="project-button hvr-bounce-to-right" target="_blank" id="sponsors">Brochure</a>
+                <a href="https://drive.google.com/file/d/1A7r8d-ILzoFhzX27Xr7AhKX16DsOiQ4i/view?usp=sharing" class="project-button hvr-bounce-to-right" target="_blank" id="sponsors">Brochure</a>
             </div>
             <!-- /.opacity -->
         </div>
@@ -414,24 +414,26 @@ include "connect.php";
 		Partner Section
 	=====================================================
 	-->
-        <div class="theme-title">
+    <div class="theme-title">
             <h2>Sponsors</h2>
         </div>
         <div id="partner-section">
             <div class="container">
 
-                <div id="partner_logo" class="row owl-carousel owl-theme">
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/comm_events.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/enfield.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/layyon.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/ncc.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/sparx.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/big_95.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/bizarre.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/ruban.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/eventom.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/varta.png" alt="logo" /></a></div>
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/zebronics.png" alt="logo" /></a></div>
+                 <div id="partner_logo" class="row owl-carousel owl-theme">
+                     <!-- <div class="item"><a href = "#"></a></div> -->
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/amalfi.png" alt="logo" /></a></div>
+                    <!-- <div class="item"><a href = "#"></a></div> -->
+                    <div class="item" style="margin-right:10%;margin-left:10%;margin-bottom:20%" ><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/garda.png" alt="logo" /></a></div>
+                    <!-- <div ><a href = "#"></a></div> -->
+                    <div class="item"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/mirchi.png" alt="logo" /></a></div>
+                    <div class="item" style="margin:15%"><a href = "#"><img src="images/logo/regenesis_sponsors/lassi_king.jpg" alt="logo" /></a></div>
+                    <div class="item" style="margin-left:20%;margin-top:10%;margin-right:20%"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/biggies_burger.jpg" alt="logo" /></a></div>
+                    <div class="item"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/camera_wala.jpg" alt="logo" /></a></div>
+                    <div class="item" style="margin:10%"><a href = "#"><img src="images/logo/regenesis_sponsors/lapino.jpg" alt="logo" /></a></div>
+                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/eventom.png" alt="logo" /></a></div> -->
+                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/varta.png" alt="logo" /></a></div> -->
+                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/zebronics.png" alt="logo" /></a></div> -->
 
                     <!-- <div class="item"><img src="images/logo/c3.jpeg" alt="logo" /></div> -->
                 </div>
@@ -463,9 +465,9 @@ include "connect.php";
                                     <div class="icon tran3s round-border p-color-bg">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                     </div>
-                                    <a href="tel:+919801884535" style="color:#6f6f6f;">
+                                    <a href="tel:+918619481946" style="color:#6f6f6f;">
                                         <h6>Phone</h6>
-                                        <p>+91 9801884535</p>
+                                        <p>+91 8619481946</p>
                                     </a>
                                 </li>
                                 <li>
