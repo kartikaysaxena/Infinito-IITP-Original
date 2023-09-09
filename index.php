@@ -7,7 +7,7 @@ include "connect.php";
 <html lang="en">
 
 <head>
-    <title>Infinito 2k22</title>
+    <title>Infinito 2k23</title>
     <?php
     require('./templates/header.php');
     ?>
@@ -72,15 +72,15 @@ include "connect.php";
                 <div id="main-banner-slider" class="rev_slider video-slider" data-version="5.0.7">
                     <ul>
                         <!-- SLIDE1    -->
-                        <li id="poster_index" data-index="rs-280" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-title="Feel The Burn" data-description="">
+                        <li id="poster_index" data-index="rs-280" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-title="Summon The Champions" data-description="">
                             <!-- MAIN IMAGE -->
                             <!-- Image will be inserted using javascript-->
                         </li>
                         <!-- SLIDE3    -->
-                        <li data-index="rs-18" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Feel The burn" data-description="">
+                        <li data-index="rs-18" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Summon The Champions" data-description="">
                             <!-- LAYER NR. 1 -->
                             <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-58','-33','-33','-100']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;text-align:center;">
-                                <h1 style="color:#d73e4d;font-weight:100">Feel the Burn</h1>
+                                <h1 style="color:#d73e4d;font-weight:100">Summon The Champions</h1>
                                 <h3 style="color:white;padding-top:20px">Infinito 2k23</h3>
                             </div>
                             <!-- LAYER NR. 3 -->
