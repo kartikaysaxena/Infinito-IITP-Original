@@ -398,11 +398,11 @@ include "connect.php";
 
         <div class="page-middle-banner">
             <div class="opacity">
-                <h3>Feel The
+                <h3>Summon The
                     <!-- <span class="p-color">&amp;</span>    -->
-                    Burn
+                    Champions
                 </h3>
-                <a href="https://drive.google.com/file/d/1A7r8d-ILzoFhzX27Xr7AhKX16DsOiQ4i/view?usp=sharing" class="project-button hvr-bounce-to-right" target="_blank" id="sponsors">Brochure</a>
+                <a href="https://drive.google.com/file/d/1EWC1ftD8g4ayQarkeaeo89AWDVV8VS8W/view?usp=sharing" class="project-button hvr-bounce-to-right" target="_blank" id="sponsors">Brochure</a>
             </div>
             <!-- /.opacity -->
         </div>
