@@ -22,7 +22,7 @@ include "connect.php";
 		-->
         <header class="theme-main-header">
             <div class="container">
-                <a href="index.php" class="logo float-left tran4s"><img src="images/logo/logo.png" alt="Logo" style="width:56px; height:56px;" /></a>
+                <a href="index.php" class="logo float-left tran4s"><img src="images/logo/logo2.png" alt="Logo" style="width:56px; height:56px;" /></a>
 
                 <!-- ========================= Theme Feature Page Menu ======================= -->
                 <nav class="navbar float-right theme-main-menu one-page-menu">
@@ -48,7 +48,7 @@ include "connect.php";
                                           <li><a href="./logout.php">Logout</a></li>';
                             } else {
                                 echo '
-                                <li><a href="./registration.php">Register</a></li>
+                                <li><a href="https://linktr.ee/infinito_2K23">Register</a></li>
                                     <li><a href="./signIn.php">Sign In</a></li>';
                             }
                             ?>
@@ -85,7 +85,7 @@ include "connect.php";
                             </div>
                             <!-- LAYER NR. 3 -->
                             <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['52','185','185','105']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];" data-mask_out="x:inherit;y:inherit;" data-start="3000" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                <a href="registration.php" class="project-button hvr-bounce-to-right">Register Now !</a>
+                                <a href="https://linktr.ee/infinito_2K23" class="project-button hvr-bounce-to-right">Register Now !</a>
                             </div>
                         </li>
                     </ul>
@@ -94,6 +94,7 @@ include "connect.php";
             <!-- END REVOLUTION SLIDER -->
         </div>
         <!--    /#banner -->
+
         <!--
 		=====================================================
 			About us Section
@@ -178,7 +179,7 @@ include "connect.php";
         </section>
         
     <!-- Steps to register -->
-    <div id="steps">
+    <!-- <div id="steps">
         <div class="container">
             <div class="wrapper" style="box-shadow:0 10px 15px rgb(66 66 66 / 19%);">
                 <h1 style="font-size:1.6rem;">Steps to Register</h1>
@@ -199,7 +200,7 @@ include "connect.php";
                 </ul>
             </div>
         </div> 
-    </div>
+    </div> -->
         <!--
 		=====================================================
 			events Section
@@ -263,7 +264,7 @@ include "connect.php";
             </div>  
             <div class="register-1"> 
                 <div class="events-tp-caption">
-                                <a href="https://linktr.ee/infinito2k22" target="blank" class="project-button hvr-bounce-to-right">Register</a>
+                                <a href="https://linktr.ee/infinito_2K23" target="blank" class="project-button hvr-bounce-to-right">Register</a>
                                 <!-- <a id="modal-btn--1" href="https://drive.google.com/file/d/1iWYbBkCWc-DQyNbE9atzdbtsI_mgQ9Hj/view?usp=drivesdk" target="blank" class="project-button hvr-bounce-to-right">Payment</a> -->
                             </div>
                 </div>            
@@ -413,33 +414,31 @@ include "connect.php";
 		Partner Section
 	=====================================================
 	-->
-    <div class="theme-title">
-            <h2>Sponsors</h2>
-        </div>
-        <div id="partner-section">
-            <div class="container">
+        <!-- <div class="theme-title"> -->
+            <!-- <h2>Sponsors</h2> -->
+        <!-- </div> -->
+        <!-- <div id="partner-section"> -->
+            <!-- <div class="container"> -->
 
-                 <div id="partner_logo" class="row owl-carousel owl-theme">
-                     <!-- <div class="item"><a href = "#"></a></div> -->
-                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/amalfi.png" alt="logo" /></a></div>
-                    <!-- <div class="item"><a href = "#"></a></div> -->
-                    <div class="item" style="margin-right:10%;margin-left:10%;margin-bottom:20%" ><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/garda.png" alt="logo" /></a></div>
-                    <!-- <div ><a href = "#"></a></div> -->
-                    <div class="item"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/mirchi.png" alt="logo" /></a></div>
-                    <div class="item" style="margin:15%"><a href = "#"><img src="images/logo/regenesis_sponsors/lassi_king.jpg" alt="logo" /></a></div>
-                    <div class="item" style="margin-left:20%;margin-top:10%;margin-right:20%"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/biggies_burger.jpg" alt="logo" /></a></div>
-                    <div class="item"><p>&nbsp;</p><p>&nbsp;</p><a href = "#"><img src="images/logo/regenesis_sponsors/camera_wala.jpg" alt="logo" /></a></div>
-                    <div class="item" style="margin:10%"><a href = "#"><img src="images/logo/regenesis_sponsors/lapino.jpg" alt="logo" /></a></div>
-                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/eventom.png" alt="logo" /></a></div> -->
-                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/varta.png" alt="logo" /></a></div> -->
-                    <!-- <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/zebronics.png" alt="logo" /></a></div> -->
+                <!-- <div id="partner_logo" class="row owl-carousel owl-theme">
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/comm_events.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/enfield.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/layyon.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/ncc.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/sparx.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/big_95.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/bizarre.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/ruban.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/eventom.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/varta.png" alt="logo" /></a></div>
+                    <div class="item"><a href = "#"><img src="images/logo/regenesis_sponsors/zebronics.png" alt="logo" /></a></div> -->
 
                     <!-- <div class="item"><img src="images/logo/c3.jpeg" alt="logo" /></div> -->
-                </div>
+                <!-- </div> -->
                 <!-- End .partner_logo -->
-            </div>
+            <!-- </div> -->
             <!-- /.container -->
-        </div>
+        <!-- </div> -->
         <!-- /#partner-section -->
         <!--
 	=====================================================
@@ -504,7 +503,7 @@ include "connect.php";
             console.log(x)
             console.log(x.matches)
             if(x.matches){
-                document.getElementById("poster_index").innerHTML = '<img src="images/home/poster_phone.webp" style="width:100% " alt="image" class="rev-slidebg" data-bgparallax="3" data-bgposition="center center" data-duration="20000" data-ease="Linear.easeIn" data-kenburns="on" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" data-scaleend="90" data-scalestart="110" />';
+                document.getElementById("poster_index").innerHTML = '<img src="images/logo/logo2.png" style="width:100% " alt="image" class="rev-slidebg" data-bgparallax="3" data-bgposition="center center" data-duration="20000" data-ease="Linear.easeIn" data-kenburns="on" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" data-scaleend="90" data-scalestart="110" />';
             }
             else{
                 document.getElementById("poster_index").innerHTML = '<img src="images/logo/logo2.png" style="width:100% " alt="image" class="rev-slidebg" data-bgparallax="3" data-bgposition="center center" data-duration="20000" data-ease="Linear.easeIn" data-kenburns="on" data-no-retina="" data-offsetend="0 0" data-offsetstart="0 0" data-rotateend="0" data-rotatestart="0" data-scaleend="90" data-scalestart="110" />';
