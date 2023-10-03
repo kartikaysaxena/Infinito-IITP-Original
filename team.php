@@ -304,24 +304,7 @@ include "connect.php";
                     </div>
                 </div>
             </div>
-            <div class="container_team">
-                <div class="card">
-                    <div class="imgBx">
-                        <img src="./images/team/IMG_20230917_011117_555 - Ajay Chauhan.jpg">
-                    </div>
-                    <div class="contentBx">
-                        <h2>Ajay Chauhan </h2>
-                        <p>Hospitality</p>
-                        <div class="links">
-                        
-                        <div class="socialLinks">
-                            <a href="https://www.linkedin.com/in/ajay-chauhan-700102230"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
-                            <a href="mailto: ajay_2101me06@iitp.ac.in"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
             <div class="container_team">
                 <div class="card">
                     <div class="imgBx">
@@ -359,24 +342,44 @@ include "connect.php";
                 </div>
             </div> 
 
-            <!-- <div class="container_team">
+            </div>
+             <div class="container_team">
                 <div class="card">
                     <div class="imgBx">
-                        <img src="./images/team/Kartikay Gupta.jpg">
+                        <img src="./images/team/IMG_20231003_125554_819 - Ajay Chauhan.jpg">
                     </div>
                     <div class="contentBx">
-                        <h2>Kartikay Gupta</h2>
-                        <p>Web and App</p>
+                        <h2>Ajay Chauhan</h2>
+                        <p>Hospitality</p>
                         <div class="links">
                         
                         <div class="socialLinks">
-                            <a href="https://www.linkedin.com/in/kartikay-gupta/?originalSubdomain=in" target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
-                            <a href="mailto: kartikay.gupta2002@gmail.com" target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                            <a href="https://www.linkedin.com/in/ajay-chauhan-700102230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                            <a href="mailto: ajay_2101me06@iitp.ac.in"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
                         </div>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div> 
+
+            <div class="container_team">
+                <div class="card">
+                    <div class="imgBx">
+                        <img src="./images/team/IMG_4950 - Kartikay Saxena.jpeg">
+                    </div>
+                    <div class="contentBx">
+                        <h2>Kartikay </h2>
+                        <p>Web and App</p>
+                        <div class="links">
+                        
+                        <div class="socialLinks">
+                            <a href="https://www.linkedin.com/feed/" target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                            <a href="kartikay_2101ce32@iitp.ac.in" target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="container_team">
                 <div class="card">
                     <div class="imgBx">
@@ -535,6 +538,25 @@ include "connect.php";
                         <div class="socialLinks">
                             <a href=""target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
                             <a href="mailto: manish2000021111@gmail.com"target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container_team">
+                <div class="card">
+                    <div class="imgBx">
+                        <img src="./images/team/IMG-20221031-WA0001~2 - Aniket Sawate.jpg">
+                    </div>
+                    <div class="contentBx">
+                        <h2>Aniket Sawate  </h2>
+                        <p>Events, Planning & Management</p>
+                        <div class="links">
+                        
+                        <div class="socialLinks">
+                            <a href="https://www.linkedin.com/in/aniket-sawate-9b2126239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank"><i class="fa fa-linkedin social_icon" style="display:flex;"></i></a>
+                            <a href="mailto:aniketsawate9766@gmail.com "target="_blank"><i class="fa fa-envelope social_icon" style="display:flex;"></i></a>
                         </div>
                         </div>
                     </div>
